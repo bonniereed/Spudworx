@@ -22,10 +22,9 @@ const styles = {
 // In Navbar, we can assign a style from an object by using curly braces
 function Footer() {
     return (
-
-        <footer style={styles.footer} class="footer mt-auto py-3 page-footer pt-4">
+        <footer style={styles.footer} class="footer mx-auto py-3 page-footer pt-4">
             <div style={styles.footer} class="container-fluid text-center text-md-left">
-                <div class="footer-copyright text-center py-3">© 2022 Created by:<br />🍟 Spudworx
+                <div class="footer-copyright text-center py-3">© 2022 Created by:<br />🍟 Spudworx 🍟
                 </div>
                 <div>
                     <a style={styles.contactIcons} href="mailto:bonnie.reed@spudworx.com" target="_blank"><img style={styles.contactIcons} class="icon img-fluid rounded"
@@ -34,6 +33,7 @@ function Footer() {
                 </div>
             </div>
         </footer>
+
     );
 }
 

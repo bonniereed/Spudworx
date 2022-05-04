@@ -14,7 +14,7 @@ const styles = {
 };
 
 // In Navbar, we can assign a style from an object by using curly braces
-function AboutMe() {
+function Body() {
     return (
         <article style={styles.aboutUs} id="about-Us" class="about-Us">
             <div>
@@ -39,4 +39,4 @@ function AboutMe() {
     );
 }
 
-export default AboutMe;
+export default Body;
