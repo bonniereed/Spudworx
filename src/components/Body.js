@@ -29,19 +29,19 @@ function Body() {
                 <h1>
                     Hello there!
                 </h1>
-                <p>
+                <h2>
                     Spudworx is here to assist you with your personal or business technical needs. Anything from hardware and software support to web design and development.
                     Please use the contact info to get in touch with us!
-                </p>
+                </h2>
             </div>
             <div>
-                <h2>
+                <h1>
                     Our services
-                </h2>
-                <p>
+                </h1>
+                <h2>
                     We are here to address your technical needs and anticipate future needs during your consultation.
                     If you are in need of technical assistance or want to stand up a website we are here for you! Please send us an email or give us a call to get started. We are eager to be of assistance!
-                </p>
+                </h2>
             </div>
             <container class='col-4 d-flex justify-content-center' >
                 <a href="mailto:bonnie.reed@spudworx.com" target="_blank"><img style={styles.contactIcons} class="icon img-fluid rounded"
