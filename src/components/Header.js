@@ -5,7 +5,7 @@ const pic = require('./images/coverspudcolor.png');
 const styles = {
     card: {
         fontSize: 2.5,
-        fontFamily: 'Caveat',
+        fontFamily: 'Architects Daughter',
     },
     heading: {
         position: 'fixed',
@@ -26,15 +26,23 @@ const styles = {
     nav: {
         backgroundColor: '#3c97d3',
         height: 'maxHeight'
+    },
+    container: {
+        height: '100%',
+        width: '100%',
+        display: 'flex',
+        justifyContent: 'center',
+        alignItems: 'center',
     }
 };
 
 // In Navbar, we can assign a style from an object by using curly braces
 function Header() {
-    return (
+    return (<container style={styles.container}>
         <nav style={styles.nav}>
             <img src={pic} alt='spudworx' className='profile-header rounded mx-auto d-block' style={styles.pic} />
         </nav>
+    </container>
     );
 }
 export default Header;
