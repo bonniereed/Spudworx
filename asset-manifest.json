@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Spudworx/static/css/main.9143f996.css",
+    "main.js": "/Spudworx/static/js/main.dc32ec7a.js",
+    "static/js/787.2c2d6008.chunk.js": "/Spudworx/static/js/787.2c2d6008.chunk.js",
+    "static/media/coverspudcolor.png": "/Spudworx/static/media/coverspudcolor.614326b445fac15c604e.png",
+    "static/media/envelope.png": "/Spudworx/static/media/envelope.a346fab83e7be1ca250b.png",
+    "static/media/phone.png": "/Spudworx/static/media/phone.2bf89f44779d8d797f96.png",
+    "index.html": "/Spudworx/index.html",
+    "main.9143f996.css.map": "/Spudworx/static/css/main.9143f996.css.map",
+    "main.dc32ec7a.js.map": "/Spudworx/static/js/main.dc32ec7a.js.map",
+    "787.2c2d6008.chunk.js.map": "/Spudworx/static/js/787.2c2d6008.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9143f996.css",
+    "static/js/main.dc32ec7a.js"
+  ]
+}
